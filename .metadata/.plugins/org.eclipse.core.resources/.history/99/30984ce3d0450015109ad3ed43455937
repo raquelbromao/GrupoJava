@@ -1,0 +1,11 @@
+
+public class Principal {
+
+	public static void main(String[] args) {
+		Basico basico = new Basico();
+		basico.deposita(100.0);
+		
+		System.out.println(basico.getSaldo());
+	}
+	
+}

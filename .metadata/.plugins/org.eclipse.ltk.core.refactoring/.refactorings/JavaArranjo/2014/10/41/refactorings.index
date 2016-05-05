@@ -1,0 +1,4 @@
+1412715816583	Convert local variable 'buffer' to field
+1412716834929	Inline local variable 'buf'
+1412718320056	Extract local variable 'scanner'
+1412718325997	Convert local variable 'scanner' to field
